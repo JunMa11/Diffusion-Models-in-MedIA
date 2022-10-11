@@ -4,12 +4,19 @@ This is a curated list of diffusion models in medical image analysis.
 
 Welcome to add papers by pulling request or raising issues. 
 
-
+## Overview
+- [Image Synthesis](#image-synthesis)
+- [Image Reconstruction](#image-reconstruction)
+- [Image Translation](#image-translation)
+- [Detection](#detection)
+- [Segmentation](#segmentation)
+- [Miscellaneous](#miscellaneous)
 
 ## Image Synthesis
 
 | Date    | First & Last Author                    | Title                                                        | Paper & Code                                                 |
 | ------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022.10 | Pierre Chambon & Akshay Chaudhari  | Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains | [arxiv](https://arxiv.org/abs/2210.04133) |
 | 2022.09 | Virginia Fernandez & M. Jorge Cardoso  | Can Segmentation Models Be Trained with Fully Synthetically Generated Data? | [MICCAI22-SASHIMI](https://link.springer.com/chapter/10.1007/978-3-031-16980-9_8) |
 | 2022.09 | Walter H. L. Pinaya & M. Jorge Cardoso | Brain Imaging Generation with Latent Diffusion Models        | [MICCAI22 DGM](https://link.springer.com/chapter/10.1007/978-3-031-18576-2_12) |
 | 2022.07 | Boah Kim & Jong Chul Ye                | Diffusion Deformable Model for 4D Temporal Medical Image Generation | [MICCAI2022](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_51), [code](https://github.com/torchddm/ddm) |
@@ -42,10 +49,8 @@ Welcome to add papers by pulling request or raising issues.
 | Date    | First & Last Author                      | Title                                                        | Paper & Code                                                 |
 | ------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2022.09 | Qing Lyu & Ge Wang                       | Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models | [arxiv](https://arxiv.org/abs/2209.12104)                    |
-| 2022.09 | Walter H. L. Pinaya and M. Jorge Cardoso | Brain Imaging Generation with Latent Diffusion Models        | [MICCAI22 DGM](https://link.springer.com/chapter/10.1007/978-3-031-18576-2_12) |
 | 2022.07 | Muzaffer Özbey & Tolga Çukur             | Unsupervised Medical Image Translation with Adversarial Diffusion Models | [arxiv](https://arxiv.org/abs/2207.08208), [code](https://github.com/icon-lab/SynDiff) |
 | 2022.04 | Julia Wolleb & Philippe C. Cattin        | The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models | [arxiv](https://arxiv.org/abs/2204.02641)                    |
-|         |                                          |                                                              |                                                              |
 
 
 
@@ -57,8 +62,7 @@ Welcome to add papers by pulling request or raising issues.
 | 2022.06 | Walter H. L. Pinaya & M. Jorge Cardos   | Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models | [arxiv](https://arxiv.org/abs/2206.03461)                    |
 | 2022.06 | Julian Wyatt & Chris G. Willcocks       | AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise | [CVPR22 Workshop](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html), [code](https://github.com/Julian-Wyatt/AnoDDPM) |
 | 2022.03 | Julia Wolleb & Philippe C. Cattin       | Diffusion Models for Medical Anomaly Detection               | [MICCAI22](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_4), [code](https://github.com/JuliaWolleb/diffusion-anomaly) |
-|         |                                         |                                                              |                                                              |
-|         |                                         |                                                              |                                                              |
+
 
 
 
@@ -68,8 +72,10 @@ Welcome to add papers by pulling request or raising issues.
 | ------- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2022.09 | Boah Kim & Jong Chul Ye           | Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation | [arxiv](https://arxiv.org/abs/2209.14566)                    |
 | 2021.06 | Julia Wolleb & Philippe C. Cattin | Diffusion Models for Implicit Image Segmentation Ensembles   | [MILD22](https://openreview.net/forum?id=QNLR05X6uW), [code](https://github.com/JuliaWolleb/Diffusion-based-Segmentation) |
-|         |                                   |                                                              |                                                              |
 
+
+## Miscellaneous
+- [Awesome Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
 
 
