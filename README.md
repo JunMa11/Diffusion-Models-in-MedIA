@@ -80,7 +80,9 @@ Welcome to add papers by pulling request or raising issues.
 
 | Date    | First & Last Author               | Title                                                        | Paper & Code                                                 |
 | ------- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2022.11 | Junde Wu & Yanwu Xu           | MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model | [arxiv](https://arxiv.org/abs/2211.00611v1)                    |
+| 2022.11 | Junde Wu & Yanwu Xu | MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model | [arxiv](https://arxiv.org/abs/2211.00611v1) |
+| 2022.10 | Xutao Guo & Ting Ma | Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation | [arxiv](https://arxiv.org/abs/2210.17408) |
+| 2022.10 | Pouria Rouzrokh & Bradley J. Erickson | Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report | [arxiv](https://arxiv.org/abs/2210.12113), [code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI) |
 | 2022.09 | Boah Kim & Jong Chul Ye           | Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation | [arxiv](https://arxiv.org/abs/2209.14566)                    |
 | 2021.06 | Julia Wolleb & Philippe C. Cattin | Diffusion Models for Implicit Image Segmentation Ensembles   | [MILD22](https://openreview.net/forum?id=QNLR05X6uW), [code](https://github.com/JuliaWolleb/Diffusion-based-Segmentation) |
 
