@@ -16,6 +16,10 @@ Welcome to add papers by pulling request or raising issues.
 
 | Date    | First & Last Author                    | Title                                                        | Paper & Code                                                 |
 | ------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022.11| Pierre Chambon & Akshay Chaudhari | RoentGen: Vision-Language Foundation Model for Chest X-ray Generation | [arxiv](https://arxiv.org/abs/2211.12737)|
+| 2022.11| Firas Khader & Daniel Truhn | Medical Diffusion -- Denoising Diffusion Probabilistic Models for 3D Medical Image Generation| [arxiv](https://arxiv.org/abs/2211.03364) |
+| 2022.11| Hazrat Ali & Zubair Shah | Spot the fake lungs: Generating Synthetic Medical Images using Neural Diffusion Models | [arxiv](https://arxiv.org/abs/2211.00902) |
+| 2022.11| Kai Packhäuser & Andreas Maier | Generation of Anonymous Chest Radiographs Using Latent Diffusion Models for Training Thoracic Abnormality Classification Systems | [arxiv](https://arxiv.org/abs/2211.01323)|
 | 2022.10 | Pierre Chambon & Akshay Chaudhari  | Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains | [arxiv](https://arxiv.org/abs/2210.04133) |
 | 2022.09 | Virginia Fernandez & M. Jorge Cardoso  | Can Segmentation Models Be Trained with Fully Synthetically Generated Data? | [MICCAI22-SASHIMI](https://link.springer.com/chapter/10.1007/978-3-031-16980-9_8) |
 | 2022.09 | Walter H. L. Pinaya & M. Jorge Cardoso | Brain Imaging Generation with Latent Diffusion Models        | [MICCAI22 DGM](https://link.springer.com/chapter/10.1007/978-3-031-18576-2_12) |
@@ -58,6 +62,7 @@ Welcome to add papers by pulling request or raising issues.
 
 | Date    | First & Last Author                      | Title                                                        | Paper & Code                                                 |
 | ------- | ---------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|2022.11| Xie Taofeng & Wang Haifeng | Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields| [arxiv](https://arxiv.org/abs/2211.08901)|
 | 2022.09 | Qing Lyu & Ge Wang                       | Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models | [arxiv](https://arxiv.org/abs/2209.12104)                    |
 | 2022.07 | Muzaffer Özbey & Tolga Çukur             | Unsupervised Medical Image Translation with Adversarial Diffusion Models | [arxiv](https://arxiv.org/abs/2207.08208), [code](https://github.com/icon-lab/SynDiff) |
 | 2022.04 | Julia Wolleb & Philippe C. Cattin        | The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models | [arxiv](https://arxiv.org/abs/2204.02641)                    |
@@ -80,6 +85,7 @@ Welcome to add papers by pulling request or raising issues.
 
 | Date    | First & Last Author               | Title                                                        | Paper & Code                                                 |
 | ------- | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2022.11| Mathias Öttl & Katharina Breininger |Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks | [arxiv](https://arxiv.org/abs/2211.06150)|
 | 2022.11 | Junde Wu & Yanwu Xu | MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model | [arxiv](https://arxiv.org/abs/2211.00611v1) |
 | 2022.10 | Xutao Guo & Ting Ma | Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling for Medical Image Segmentation | [arxiv](https://arxiv.org/abs/2210.17408) |
 | 2022.10 | Pouria Rouzrokh & Bradley J. Erickson | Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report | [arxiv](https://arxiv.org/abs/2210.12113), [code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI) |
